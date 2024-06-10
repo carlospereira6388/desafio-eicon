@@ -1,4 +1,4 @@
-## EiconIT - Avaliação para Desenvolvedores
+## Eicon - Avaliação para Desenvolvedores
 Bem-vindo ao repositório do Desafio EiconIT. Este arquivo README fornece informações detalhadas sobre como configurar, executar e utilizar o projeto.
 
 ## Pré-requisitos
