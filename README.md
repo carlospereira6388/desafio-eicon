@@ -1,5 +1,5 @@
 ## Eicon - Avaliação para Desenvolvedores
-Bem-vindo ao repositório do Desafio EiconIT. Este arquivo README fornece informações detalhadas sobre como configurar, executar e utilizar o projeto.
+Bem-vindo ao repositório do Desafio Eicon. Este arquivo README fornece informações detalhadas sobre como configurar, executar e utilizar o projeto.
 
 ## Pré-requisitos
 Antes de começar, assegure-se de que você tem os seguintes pré-requisitos instalados em sua máquina:
